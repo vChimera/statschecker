@@ -80,4 +80,3 @@ Clear-Console
 Show-Banner
 Show-Stats
 Write-Host ("Done!")
-exit
